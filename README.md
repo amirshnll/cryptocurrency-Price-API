@@ -1,2 +1,2 @@
-# Cryptogrphy-Price-API
-Cryptogrphy Price API - with PHP
+# cryptocurrency-Price-API
+cryptocurrency Price API - with PHP
