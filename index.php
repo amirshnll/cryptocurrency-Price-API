@@ -4,7 +4,6 @@
 	<title>Cryptocurrency</title>
 	<link rel="stylesheet" href="assets/lib/bootstrap/css/bootstrap.min.css" />
 	<link rel="stylesheet" href="assets/lib/bootstrap/css/bootstrap-grid.min.css" />
-	<link rel="stylesheet" href="assets/lib/fontawesome/css/all.min.css" />
 	<link rel="stylesheet" href="assets/css/layout.css" />
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 </head>
